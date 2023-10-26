@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.HomePage{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url('./IMAGE/beard\ trimming.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.HomeContent{
+    width: 100% !important;
+    position: absolute !important;
+    top: 40%;
+    transform: translateY(-15%);
+    text-align: center;
+}
+.HomeContent h1{
+    font-size: 3rem !important;
+    
+}
