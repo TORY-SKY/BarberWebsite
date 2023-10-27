@@ -20,3 +20,18 @@
     font-size: 3rem !important;
     
 }
+.profile-Area{
+    width: 100% !important;
+    
+}
+
+.card img{
+    width: 15% !important;
+   
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
