@@ -35,3 +35,7 @@
     justify-content: center;
     align-items: center;
 }
+.card h1:hover{
+    color: red;
+    transition: 0.5s; 
+}
