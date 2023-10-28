@@ -39,24 +39,30 @@
     color: red;
     transition: 0.5s; 
 }
-.Page3{
-    background-color: bisque !important;
+
+
+/*pg 3*/
+.PG3{
+    background-color: black;
 }
-
-
-
-
-.NavItem button{
-    background-color: none !important;
-    color: black !important;
-    transition: 0.7s;
+.Top{
+    border-bottom: 2px solid red;
+    padding: 6px;
+}
+.imageDiv{
+    width: 600x;
+    height: 500px;
+    overflow: hidden;
+}
+.imageDiv img{
+    width: 100%;
+    height: auto;
+}
+.TOPNOTCH{
+    position: relative;
+    top: 50;
     
 }
-.NavItem button:hover{
-    color: red !important;
-}
-.ulElement{
-    display: flex !important;
-    align-items: center;
-    justify-content: center;
-}
+
+
+
